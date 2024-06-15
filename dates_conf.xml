@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<Object><ObjectType>Matrices</ObjectType><Variety>Any</Variety><Matrices><Mx><Vector>Vector</Vector><data><dat>January</dat><dat>February</dat><dat>March</dat><dat>April</dat><dat>May</dat><dat>June</dat><dat>July</dat><dat>August</dat><dat>September</dat><dat>October</dat><dat>November</dat><dat>December</dat></data></Mx><Mx><Vector>Vector</Vector><data><dat>31</dat><dat>28</dat><dat>31</dat><dat>30</dat><dat>31</dat><dat>30</dat><dat>31</dat><dat>31</dat><dat>30</dat><dat>31</dat><dat>30</dat><dat>31</dat></data></Mx></Matrices></Object>
